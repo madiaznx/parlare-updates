@@ -1,2 +1,3 @@
-# spark-cri-updates
-Assets publicos de atualizacao automatica do Spark CRI.
+# Parlare Updates
+
+Artefatos publicos de atualizacao automatica do Parlare.
